@@ -1,3 +1,33 @@
 /* 
     General Styles
 */
+/* 
+    General Styles
+*/
+#swLogo{
+    height: 50px;
+}
+
+.favButton{
+    margin-left: 5rem;
+}
+
+#planetPic{
+    width: 500px;
+    height: 300px;
+}
+
+.planetProp{
+    font-size: 20px;
+}
+
+.home{
+    display: flex;
+    overflow-x: scroll;
+    
+}
+
+.card{
+    margin-right: 15px;
+    width: 18rem;
+}
